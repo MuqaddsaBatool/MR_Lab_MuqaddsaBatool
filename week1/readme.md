@@ -1,10 +1,10 @@
-MCT-454L Mobile Robotics - Lab Repository
+# MCT-454L Mobile Robotics - Lab Repository
 
-Student Name: Muqaddsa Batool
+# Student Name: Muqaddsa Batool
 
-Session: Week 1 - ROS 2 Onboarding & First Node
+#  Session: Week 1 - ROS 2 Onboarding & First Node
 
-Overview
+# Overview
 
 This repository contains the deliverables for the Mobile Robotics Lab. Week 1 focused on setting up the ROS 2 Humble environment on WSL (Windows Subsystem for Linux), creating a development workspace, and building a Python-based ROS 2 package from scratch.
 
@@ -34,7 +34,7 @@ ROS Parameters: Integrated student_name parameter handling.
 
 💻 Commands Used
 
-# Sourcing ROS 2
+## Sourcing ROS 2
 source /opt/ros/humble/setup.bash
 
 # Building Workspace
