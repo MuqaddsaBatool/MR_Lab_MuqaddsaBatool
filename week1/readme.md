@@ -1,6 +1,6 @@
 # MCT-454L Mobile Robotics - Lab Repository
 
-# Student Name: Muqaddsa Batool
+## Student Name: Muqaddsa Batool
 
 #  Session: Week 1 - ROS 2 Onboarding & First Node
 
@@ -32,19 +32,19 @@ Run persistence: Implemented a file-based counter to track executions.
 
 ROS Parameters: Integrated student_name parameter handling.
 
-💻 Commands Used
+# Commands Used
 
 ## Sourcing ROS 2
 source /opt/ros/humble/setup.bash
 
-# Building Workspace
+## Building Workspace
 cd ~/ros2_workspace
 colcon build
 
-# Sourcing Workspace
+## Sourcing Workspace
 source install/setup.bash
 
-# Running the Node with Parameters
+## Running the Node with Parameters
 ros2 run my_first_pkg simple_node --ros-args -p student_name:="Muqaddsa Batool"
 
 
