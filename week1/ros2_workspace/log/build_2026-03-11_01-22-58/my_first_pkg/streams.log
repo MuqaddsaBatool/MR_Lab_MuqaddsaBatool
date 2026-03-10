@@ -1,0 +1,33 @@
+[1.824s] Invoking command in '/home/Muqaddsa/ros2_workspace/my_first_pkg': PYTHONPATH=/home/Muqaddsa/ros2_workspace/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/Muqaddsa/ros2_workspace/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_first_pkg build --build-base /home/Muqaddsa/ros2_workspace/build/my_first_pkg/build install --record /home/Muqaddsa/ros2_workspace/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[2.138s] running egg_info
+[2.140s] creating ../build/my_first_pkg/my_first_pkg.egg-info
+[2.141s] writing ../build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[2.141s] writing dependency_links to ../build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[2.142s] writing entry points to ../build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[2.142s] writing requirements to ../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[2.143s] writing top-level names to ../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[2.143s] writing manifest file '../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[2.145s] reading manifest file '../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[2.147s] writing manifest file '../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[2.147s] running build
+[2.147s] running build_py
+[2.148s] creating /home/Muqaddsa/ros2_workspace/build/my_first_pkg/build
+[2.148s] creating /home/Muqaddsa/ros2_workspace/build/my_first_pkg/build/lib
+[2.149s] creating /home/Muqaddsa/ros2_workspace/build/my_first_pkg/build/lib/my_first_pkg
+[2.149s] copying my_first_pkg/__init__.py -> /home/Muqaddsa/ros2_workspace/build/my_first_pkg/build/lib/my_first_pkg
+[2.150s] running install
+[2.150s] running install_lib
+[2.152s] creating /home/Muqaddsa/ros2_workspace/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[2.152s] copying /home/Muqaddsa/ros2_workspace/build/my_first_pkg/build/lib/my_first_pkg/__init__.py -> /home/Muqaddsa/ros2_workspace/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[2.154s] byte-compiling /home/Muqaddsa/ros2_workspace/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/__init__.py to __init__.cpython-310.pyc
+[2.155s] running install_data
+[2.155s] creating /home/Muqaddsa/ros2_workspace/install/my_first_pkg/share/ament_index
+[2.156s] creating /home/Muqaddsa/ros2_workspace/install/my_first_pkg/share/ament_index/resource_index
+[2.156s] creating /home/Muqaddsa/ros2_workspace/install/my_first_pkg/share/ament_index/resource_index/packages
+[2.157s] copying resource/my_first_pkg -> /home/Muqaddsa/ros2_workspace/install/my_first_pkg/share/ament_index/resource_index/packages
+[2.157s] copying package.xml -> /home/Muqaddsa/ros2_workspace/install/my_first_pkg/share/my_first_pkg
+[2.158s] running install_egg_info
+[2.160s] Copying ../build/my_first_pkg/my_first_pkg.egg-info to /home/Muqaddsa/ros2_workspace/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info
+[2.162s] running install_scripts
+[2.189s] writing list of installed files to '/home/Muqaddsa/ros2_workspace/build/my_first_pkg/install.log'
+[2.221s] Invoked command in '/home/Muqaddsa/ros2_workspace/my_first_pkg' returned '0': PYTHONPATH=/home/Muqaddsa/ros2_workspace/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/Muqaddsa/ros2_workspace/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_first_pkg build --build-base /home/Muqaddsa/ros2_workspace/build/my_first_pkg/build install --record /home/Muqaddsa/ros2_workspace/build/my_first_pkg/install.log --single-version-externally-managed install_data
