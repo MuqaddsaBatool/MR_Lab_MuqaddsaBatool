@@ -14,7 +14,6 @@ class DrawCircle(Node):
     def move_turtle(self):
         msg = Twist()
 
-        # Set velocities
         msg.linear.x = 2.0      # forward speed
         msg.angular.z = 1.0     # rotation speed
 

@@ -11,7 +11,7 @@ class TriangleMover(Node):
         
         # State machine variables
         self.state = 'forward'       # current state
-        self.tick = 0                # counts timer callbacks
+        self.tick = 0                # counts timer callback
         
         # Tuning values
         self.forward_ticks = 20      # how long to move straight
